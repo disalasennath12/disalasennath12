@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Disala Sennath</h1>
 <h3 align="center">A passionate Dveloper from Sri Lanka</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=disalasennath12" alt="disalasennath12" /></a> </p>
+
 - 🌱 I’m currently learning **JS,Java**
 
 - 💬 Ask me about **gsap,Python**
@@ -13,6 +15,7 @@
 <p align="left">
 <a href="https://fb.com/disala sennath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="disala sennath" height="30" width="40" /></a>
 <a href="https://instagram.com/disalasennth12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="disalasennth12" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/disalasennath12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="disalasennath12" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/EutyEHfEyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/EutyEHfEyk" height="30" width="40" /></a>
 </p>
 
