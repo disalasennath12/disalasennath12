@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=disalasennath12" alt="disalasennath12" /></a> </p>
 
-- 🌱 I’m currently learning **JS,Java**
+- 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **gsap,Python**
+- 💬 Ask me about **js,Python**
 
 - 📫 How to reach me **sennathdesilva@gmail.com**
 
